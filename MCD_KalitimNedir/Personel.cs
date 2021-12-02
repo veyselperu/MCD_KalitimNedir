@@ -15,6 +15,7 @@ namespace MCD_KalitimNedir
         public Personel()
         {
             Console.WriteLine("Personel nesnesi yapıcı metot");
+            TemelTipMetot2();
         }
     }
 }
